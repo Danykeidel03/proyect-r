@@ -20,6 +20,10 @@
    x.5.0 Legacy About Styles: Media Queries
 ------------------------------------------------------------------------------*/
 
+
+
+
+
 .about__container {
 	/* Section backgrounds */
 	--background: #EAE9E7;
@@ -43,6 +47,10 @@
 
 	--gap: 2rem;
 }
+
+
+
+
 
 /*------------------------------------------------------------------------------
   1.0 - Global: About, Credits, Freedoms, Privacy, Get Involved
