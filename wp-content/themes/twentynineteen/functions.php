@@ -103,6 +103,8 @@ if ( ! function_exists( 'twentynineteen_setup' ) ) :
 		// Enqueue editor styles.
 		add_editor_style( 'style-editor.css' );
 
+		add_editor_style( 'home.css' );
+
 		// Add custom editor font sizes.
 		add_theme_support(
 			'editor-font-sizes',
