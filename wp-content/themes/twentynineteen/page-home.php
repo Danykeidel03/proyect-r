@@ -1,8 +1,3 @@
-<?php
-// Incluye el archivo headerPr.php desde el directorio del tema
-include(get_template_directory() . '/headerPr.php');
-?>
-
 <!DOCTYPE html>
 <html lang="es">
 
@@ -24,6 +19,11 @@ include(get_template_directory() . '/headerPr.php');
 
 <body>
 
+    <?php
+    // Incluye el archivo headerPr.php desde el directorio del tema
+    include(get_template_directory() . '/headerPr.php');
+    ?>
+
     <!-- Menu para dispositivos moviles-->
 
     <script>
@@ -42,7 +42,6 @@ include(get_template_directory() . '/headerPr.php');
         <a href="https://www.tiktok.com/@pr_matsuri?lang=es" target="_blank">Tiktok <i class="fa-brands fa-tiktok"></i></a>
         <a href="https://www.youtube.com/@pr_matsuri" target="_blank">Youtube <i class="fa-brands fa-youtube"></i></a>
     </div>
-
 
     <div class="INICIO">
         <!-- IMAGEN DEL INICIO-->
@@ -82,6 +81,17 @@ include(get_template_directory() . '/headerPr.php');
                 </tr>
             </table>
         </div>
+
+        <?php
+        // Verifica si la función do_shortcode está disponible
+        //if (function_exists('do_shortcode')) {
+            // Coloca el ID de tu slider en lugar de "10"
+            $slider_shortcode = '[metaslider id="10"]';
+
+            // Imprime el slider usando do_shortcode
+            echo do_shortcode($slider_shortcode);
+        //}
+        ?>
 
         <div id="primero" class="primero">
             <h1 class="quienesSomos"><b>¿Quienes Somos?</b></h1>

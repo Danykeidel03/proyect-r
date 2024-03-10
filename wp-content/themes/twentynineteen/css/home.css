@@ -504,8 +504,8 @@ header {
 }
 
 .slides {
-    display: none;
-}
+    display: block;
+  }
 
 .prev,
 .next {
