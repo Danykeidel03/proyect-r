@@ -24,8 +24,14 @@ header {
     align-items: center;
     position: relative;
 }
+/* Colores texto links menu*/
+.nav-bar a {
+    color: #fff;
+    padding: 10px;
+}
 
 .nav-bar ul li a:hover {
+    border-radius: 8px;
     color: #000;
     background-color: var(--text-color);
 }
