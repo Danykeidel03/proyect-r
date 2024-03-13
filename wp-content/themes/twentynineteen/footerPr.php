@@ -1,4 +1,11 @@
-    <!-- EL FOOTER Poner Aviso legal, Politica de coockies, Politica de privacidad y Condiciones de uso-->
+<head>
+<title><?php wp_title('|', true, 'right'); ?></title>
+        <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_uri(); ?>">
+        <!-- Agrega tu enlace a la hoja de estilo personalizada aquí -->
+        <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/footer.css">
+</head>
+
+<!-- EL FOOTER Poner Aviso legal, Politica de coockies, Politica de privacidad y Condiciones de uso-->
     <footer>
         <div class="container">
             <div class="content">
