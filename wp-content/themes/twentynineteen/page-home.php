@@ -25,12 +25,11 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
 </head>
 
-<body>
-
-    <?php
+<?php
     // Incluye el archivo headerPr.php desde el directorio del tema
     include(get_template_directory() . '/headerPr.php');
-    ?>
+?>
+<body>
 
     <!-- Menu para dispositivos moviles-->
 
@@ -42,7 +41,7 @@
         }
     </script>
 
-    <div class="INICIO">
+    <div class="inicio">
         <!-- IMAGEN DEL INICIO-->
 
         <div class="PagPrincipal" id="PagP">
@@ -270,13 +269,6 @@
 
 
     </div>
-
-    <?php
-    // Incluye el archivo headerPr.php desde el directorio del tema
-    include(get_template_directory() . '/footerPr.php');
-    ?>
-
-
     <hr size="10" noshade color="#222327">
 
     <!-- QUITAR TIENDA Y NO PONER POLITICAS NI COOKIES-->
@@ -310,5 +302,10 @@
     <!-- -->
 
 </body>
+
+<?php
+    // Incluye el archivo headerPr.php desde el directorio del tema
+    include(get_template_directory() . '/footerPr.php');
+    ?>
 
 </html>
