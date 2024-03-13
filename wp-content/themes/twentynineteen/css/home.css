@@ -43,7 +43,7 @@ body {
 /*********************************************************************IMAGENES PAGINA PRINCIPAL************************************************************************/
 
 .PagPrincipal {
-    width: calc(100% - 93px);
+    width: 100%;
     height: 800px;
     position: relative;
     background-image: url(imagenes/IntroGIF2.gif);
@@ -514,3 +514,12 @@ body {
 /* https://codepen.io/LegendAF/pen/NGaaWY 
 https://codepen.io/Calleb/pen/MWXOOeQ
 */
+
+body .inicio{
+    margin-top: 93px;
+}
+
+.inicio .PagPrincipal .logo2{
+    width: 100%;
+    height: 100%;
+}
