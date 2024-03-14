@@ -3,18 +3,21 @@
         <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_uri(); ?>">
         <!-- Agrega tu enlace a la hoja de estilo personalizada aquí -->
         <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/footer.css">
+        <script src="https://kit.fontawesome.com/7001c2b5aa.js" crossorigin="anonymous"></script>
 </head>
 
 <!-- EL FOOTER Poner Aviso legal, Politica de coockies, Politica de privacidad y Condiciones de uso-->
     <footer>
         <div class="container">
             <div class="content">
-                <div class="col">
-                    <p>Contacto</p>
-                    <p>
-                        Si deseas contactar con nosotros <br> siempre estamos atentos a <br>
-                        las redes sociales, esperamos poder ser de ayuda.
-                    </p>
+                <div class="left">
+                    <div class="flex1">
+                        <p>Contacto</p>
+                        <p>
+                            Si deseas contactar con nosotros <br> siempre estamos atentos a <br>
+                            las redes sociales, esperamos poder ser de ayuda.
+                        </p>
+                    </div>
                     <div class="flex">
                         <div class="col-info">
                             <p>
@@ -33,7 +36,7 @@
 
                     </div>
                 </div>
-                <div class="col">
+                <div class="rigth">
                     <div class="column">
                         <p>Información</p>
                         <p>Sobre nosotros</p>
@@ -41,13 +44,14 @@
                         <p>Contáctanos</p>
                     </div>
                 </div>
-                <div class="col">
-                    <p>Siguenos en nuestras redes sociales</p>
+                <div class="centered">
+                    <p>Síguenos</p>
                     <div class="social">
-                        <a href="https://www.instagram.com/pr_matsuri/?hl=es" target="_blank"><img src="imagenes/instagramLogo.png" alt="" /></a>
-                        <a href="https://www.tiktok.com/@pr_matsuri?lang=es" target="_blank"><img src="imagenes/tiktokLogo.png" alt="" /></a>
-                        <a href="https://www.twitch.tv/pr_matsuri" target="_blank"><img src="imagenes/twitchLogo.png" alt="" /></a>
-                        <a href="https://www.youtube.com/@pr_matsuri" target="_blank"><img src="imagenes/youtubeLogo.png" alt="" /></a>
+                        <a href="https://www.youtube.com/@pr_matsuri" target="_blank"><i class="fa-brands fa-youtube fa-xl" style="color: #FF0000"></i></a>
+                        <a href="https://discord.gg/aneaHgvQRp" target="_blank"><i class="fa-brands fa-discord fa-xl" style="color: #6E85D3;"></i></a>
+                        <a href="https://www.instagram.com/pr_matsuri/?hl=es" target="_blank"><i class="fa-brands fa-instagram fa-xl" style="color: #BE3696"></i></a>
+                        <a href="https://www.twitch.tv/pr_matsuri" target="_blank"><i class="fa-brands fa-twitch fa-xl" style="color: #A970FF"></i></a>
+                        <a href="https://www.tiktok.com/@pr_matsuri?lang=es" target="_blank"><i class="fa-brands fa-tiktok fa-xl" style="color: #F7F7F7"></i></a>
                     </div>
                 </div>
             </div>
