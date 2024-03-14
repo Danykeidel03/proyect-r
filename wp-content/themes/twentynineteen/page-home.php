@@ -309,3 +309,4 @@
     ?>
 
 </html>
+<script src="<?php echo get_template_directory_uri(); ?>/js/padingHome.js"></script>
