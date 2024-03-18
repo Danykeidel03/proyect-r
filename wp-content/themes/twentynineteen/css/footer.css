@@ -1,7 +1,10 @@
 /*********************************************************************FOOTER************************************************************************/
 
+
 footer {
     background-color: var(--bg--color);
+    display: flex;
+    flex-direction: column;
 }
 
 .container {
@@ -10,31 +13,26 @@ footer {
 }
 
 .content {
-    display: block;
+    display: flex;
     box-sizing: border-box;
-    min-height:100%;
+    min-height: 100%;
     padding: 50px;
 }
 
-.left{
-    text-align:left;
-    float:left;
-}
-.right{
-    float:right;
-    text-align:right;
-}
-    .centered{
-    text-align:center;
-    }
-
-@media (min-width:320px) and (max-width:479px) {
+@media (min-width:320px) and (max-width:576px) {
     .content {
         display: block;
         margin-left: auto;
         margin-right: auto;
         max-width: 1230px;
         position: relative;
+    }
+
+    html footer .container .content .left,
+    html footer .container .content .right,
+    html footer .container .content .centered {
+        width: 100%;
+        align-items: flex-start;
     }
 }
 
@@ -117,4 +115,22 @@ footer {
 .footerUltimo .contenedor p span {
     color: var(--text-color);
     font-weight: bold;
+}
+
+.social a img {
+    height: 24px;
+    width: 24px;
+}
+
+footer .container .content .left,
+footer .container .content .right,
+footer .container .content .centered {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+html .container {
+    max-width: none;
 }
