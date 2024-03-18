@@ -47,11 +47,11 @@
                 <div class="centered">
                     <p>Síguenos</p>
                     <div class="social">
-                        <a href="https://www.youtube.com/@pr_matsuri" target="_blank"><i class="fa-brands fa-youtube fa-xl" style="color: #FF0000"></i></a>
-                        <a href="https://discord.gg/aneaHgvQRp" target="_blank"><i class="fa-brands fa-discord fa-xl" style="color: #6E85D3;"></i></a>
-                        <a href="https://www.instagram.com/pr_matsuri/?hl=es" target="_blank"><i class="fa-brands fa-instagram fa-xl" style="color: #BE3696"></i></a>
-                        <a href="https://www.twitch.tv/pr_matsuri" target="_blank"><i class="fa-brands fa-twitch fa-xl" style="color: #A970FF"></i></a>
-                        <a href="https://www.tiktok.com/@pr_matsuri?lang=es" target="_blank"><i class="fa-brands fa-tiktok fa-xl" style="color: #F7F7F7"></i></a>
+                        <a href="https://www.youtube.com/@pr_matsuri" target="_blank"><i class="fa-brands fa-youtube fa-xl" style="color: #FFFFFF"></i></a>
+                        <a href="https://discord.gg/aneaHgvQRp" target="_blank"><i class="fa-brands fa-discord fa-xl" style="color: #FFFFFF;"></i></a>
+                        <a href="https://www.instagram.com/pr_matsuri/?hl=es" target="_blank"><i class="fa-brands fa-instagram fa-xl" style="color: #FFFFFF"></i></a>
+                        <a href="https://www.twitch.tv/pr_matsuri" target="_blank"><i class="fa-brands fa-twitch fa-xl" style="color: #FFFFFF"></i></a>
+                        <a href="https://www.tiktok.com/@pr_matsuri?lang=es" target="_blank"><i class="fa-brands fa-tiktok fa-xl" style="color: #FFFFFF"></i></a>
                     </div>
                 </div>
             </div>
