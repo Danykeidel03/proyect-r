@@ -10,16 +10,23 @@ footer {
 }
 
 .content {
-    display: flex;
+    display: block;
+    box-sizing: border-box;
+    min-height:100%;
     padding: 50px;
-    justify-content: space-between;
 }
 
-.col {
-    display: flex;
-    flex-direction: column;
-    margin-left: -40px;
+.left{
+    text-align:left;
+    float:left;
 }
+.right{
+    float:right;
+    text-align:right;
+}
+    .centered{
+    text-align:center;
+    }
 
 @media (min-width:320px) and (max-width:479px) {
     .content {
@@ -49,51 +56,6 @@ footer {
 .content p:not(.col, .column p:first-child) {
     color: #888888;
     margin-bottom: 10px;
-}
-
-.col:first-child {
-    gap: 25px;
-}
-
-.col:first-child .flex {
-    display: flex;
-    gap: 50px;
-}
-
-.col:first-child .flex .col-info {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-.col:first-child .flex .col-info p {
-    font-size: 14px;
-}
-
-.col:first-child .flex .col-info span {
-    color: white;
-    font-size: 17px;
-}
-
-.col .column:first-child {
-    margin-right: 70px;
-    margin-left: 0px;
-}
-
-.col .column p:first-child {
-    margin-bottom: 25px;
-}
-
-.col .column p:not(p:first-child) {
-    margin-bottom: 12px;
-}
-
-.col:last-child {
-    gap: 15px;
-}
-
-.col:last-child .email {
-    display: flex;
 }
 
 .col:last-child .email input {
@@ -126,16 +88,16 @@ footer {
 }
 
 .col:last-child .social {
-    display: table-column;
+    display: flex;
     gap: 20px;
 }
 
-.col:last-child .social img {
+.col:last-child .social i {
     width: 40px;
 }
 
 .footerUltimo {
-    background-color: rgb(43, 43, 43);
+    background-color: rgb(40, 40, 40);
 }
 
 .footerUltimo .textoFooter {
