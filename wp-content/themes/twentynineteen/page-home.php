@@ -269,7 +269,6 @@
 
 
     </div>
-    <hr size="10" noshade color="#222327">
 
     <!-- QUITAR TIENDA Y NO PONER POLITICAS NI COOKIES-->
 
