@@ -1,4 +1,8 @@
-/********************************************************************MENU DE NAVEGACION**********************************************************************/
+/********************FUENTES*************************/
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital,wght@0,400..700;1,400..700&family=Montserrat:wght@500&display=swap');
+
+/********************MENU DE NAVEGACION*************************/
 
 header {
     position: fixed;
@@ -23,22 +27,33 @@ header {
     display: flex;
     align-items: center;
     position: relative;
+    float: left;
+    margin-top: 20px;
 }
 /* Colores texto links menu*/
 .nav-bar a {
-    color: #fff;
-    padding: 10px;
+    font-family: "Libre Bodoni", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 2px;
+    position: relative;
+    display: inline-block;
 }
 
-.nav-bar ul li a:hover {
-    border-radius: 8px;
-    color: #000;
-    background-color: var(--text-color);
+.nav-bar a:after {
+    content:'';
+    position: absolute;
+    border-bottom: 2px solid #fff;
+    top: 100%;
+    transition: all 0.4s;
+    left: 50%;
+    right: 50%;
 }
 
-.nav-bar ul li a.activa {
-    color: #000;
-    background-color: var(--text-color);
+.nav-bar a:hover:after {
+    right: 0; left: 0;
 }
 
 @media only screen and (max-width: 1320px) {
@@ -53,58 +68,7 @@ header {
     }
 }
 
-@media only screen and (max-width: 980px) {
 
-    header .nav-bar .listaMenu{
-        padding-bottom: 30px;
-    }
-    
-    .menuTlf {
-        display: block;
-        cursor: pointer;
-    }
-
-    .menuTlf .linea {
-        width: 30px;
-        height: 3px;
-        background: var(--text-color);
-        margin: 6px 0;
-    }
-
-    .nav-bar {
-        height: 0;
-        position: absolute;
-        top: 70px;
-        left: 0;
-        right: 0;
-        width: 100vw;
-        background: var(--bg--color);
-        transition: 0.5s;
-        overflow: hidden;
-        z-index: 6;
-    }
-
-    .nav-bar.activa {
-        height: auto;
-    }
-
-    .nav-bar ul {
-        display: block;
-        width: fit-content;
-        margin: 50px auto 0 auto;
-        text-align: center;
-        transition: 0.5s;
-        opacity: 0;
-    }
-
-    .nav-bar.activa ul {
-        opacity: 1;
-    }
-
-    .nav-bar ul li a {
-        margin-bottom: 12px;
-    }
-}
 
 header .logoHeader .imgLogoHeader{
     width: 13%;
@@ -147,5 +111,67 @@ header .nav-bar .listaMenu{
 @media (max-width: 400px){
     header .logoHeader .imgLogoHeader{
         width: 40%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+
+    header .nav-bar .listaMenu{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding-bottom: 10px;
+    }
+    
+    .menuTlf {
+        display: block;
+        cursor: pointer;
+        align-items: center;
+    }
+
+    .menuTlf .linea {
+        width: 30px;
+        height: 3px;
+        background: var(--text-color);
+        margin: 6px 0;
+    }
+
+    .nav-bar {
+        height: 0;
+        position: absolute;
+        box-sizing: border-box;
+        top: 70px;
+        left: 0;
+        right: 0;
+        width: 100vw;
+        background: var(--bg--color);
+        transition: 0.5s;
+        overflow: hidden;
+        z-index: 6;
+    }
+
+    .nav-bar.activa {
+        height: auto;
+        width: auto;
+        padding: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .nav-bar ul {
+        text-align: center;
+        transition: 0.5s;
+        opacity: 0;
+    }
+
+    .nav-bar.activa ul {
+        opacity: 1;
+    }
+
+    .nav-bar ul li a {
+        margin-bottom: 12px;
     }
 }
