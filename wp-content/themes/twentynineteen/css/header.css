@@ -1,4 +1,8 @@
-/********************************************************************MENU DE NAVEGACION**********************************************************************/
+/********************FUENTES*************************/
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital,wght@0,400..700;1,400..700&family=Montserrat:wght@500&display=swap');
+
+/********************MENU DE NAVEGACION*************************/
 
 header {
     position: fixed;
@@ -23,22 +27,33 @@ header {
     display: flex;
     align-items: center;
     position: relative;
+    float: left;
+    margin-top: 20px;
 }
 /* Colores texto links menu*/
 .nav-bar a {
-    color: #fff;
-    padding: 10px;
+    font-family: "Libre Bodoni", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 2px;
+    position: relative;
+    display: inline-block;
 }
 
-.nav-bar ul li a:hover {
-    border-radius: 8px;
-    color: #000;
-    background-color: var(--text-color);
+.nav-bar a:after {
+    content:'';
+    position: absolute;
+    border-bottom: 2px solid #fff;
+    top: 100%;
+    transition: all 0.4s;
+    left: 50%;
+    right: 50%;
 }
 
-.nav-bar ul li a.activa {
-    color: #000;
-    background-color: var(--text-color);
+.nav-bar a:hover:after {
+    right: 0; left: 0;
 }
 
 @media only screen and (max-width: 1320px) {
