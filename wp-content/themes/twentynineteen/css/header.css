@@ -68,58 +68,7 @@ header {
     }
 }
 
-@media only screen and (max-width: 980px) {
 
-    header .nav-bar .listaMenu{
-        padding-bottom: 30px;
-    }
-    
-    .menuTlf {
-        display: block;
-        cursor: pointer;
-    }
-
-    .menuTlf .linea {
-        width: 30px;
-        height: 3px;
-        background: var(--text-color);
-        margin: 6px 0;
-    }
-
-    .nav-bar {
-        height: 0;
-        position: absolute;
-        top: 70px;
-        left: 0;
-        right: 0;
-        width: 100vw;
-        background: var(--bg--color);
-        transition: 0.5s;
-        overflow: hidden;
-        z-index: 6;
-    }
-
-    .nav-bar.activa {
-        height: auto;
-    }
-
-    .nav-bar ul {
-        display: block;
-        width: fit-content;
-        margin: 50px auto 0 auto;
-        text-align: center;
-        transition: 0.5s;
-        opacity: 0;
-    }
-
-    .nav-bar.activa ul {
-        opacity: 1;
-    }
-
-    .nav-bar ul li a {
-        margin-bottom: 12px;
-    }
-}
 
 header .logoHeader .imgLogoHeader{
     width: 13%;
@@ -162,5 +111,67 @@ header .nav-bar .listaMenu{
 @media (max-width: 400px){
     header .logoHeader .imgLogoHeader{
         width: 40%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+
+    header .nav-bar .listaMenu{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding-bottom: 10px;
+    }
+    
+    .menuTlf {
+        display: block;
+        cursor: pointer;
+        align-items: center;
+    }
+
+    .menuTlf .linea {
+        width: 30px;
+        height: 3px;
+        background: var(--text-color);
+        margin: 6px 0;
+    }
+
+    .nav-bar {
+        height: 0;
+        position: absolute;
+        box-sizing: border-box;
+        top: 70px;
+        left: 0;
+        right: 0;
+        width: 100vw;
+        background: var(--bg--color);
+        transition: 0.5s;
+        overflow: hidden;
+        z-index: 6;
+    }
+
+    .nav-bar.activa {
+        height: auto;
+        width: auto;
+        padding: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .nav-bar ul {
+        text-align: center;
+        transition: 0.5s;
+        opacity: 0;
+    }
+
+    .nav-bar.activa ul {
+        opacity: 1;
+    }
+
+    .nav-bar ul li a {
+        margin-bottom: 12px;
     }
 }
