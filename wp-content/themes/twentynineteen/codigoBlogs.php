@@ -1,6 +1,155 @@
-<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-53c09c96 elementor-widget elementor-widget-wpr-magazine-grid" data-id="53c09c96" data-element_type="widget" data-widget_type="wpr-magazine-grid.default">
+					<div class="elementor-element elementor-element-9bf7179 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="9bf7179" data-element_type="container" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-47b2935 meta-visibility-show section-title-style-style1 title_position_default title_hover_border_default title-default img_hover_animation_default meta_position_default tpg-is-author-icon-show author-image-visibility-icon tpg-category-position-default readmore-btn-default-style grid-hover-overlay-type-always tpg-el-box-border-enable tpg-border-bottom-disable elementor-widget elementor-widget-tpg-grid-layout" data-id="47b2935" data-element_type="widget" data-widget_type="tpg-grid-layout.default">
 				<div class="elementor-widget-container">
-			<div class="wpr-magazine-grid-wrap" data-slide-effect="" style="opacity: 1;"><section class="wpr-magazine-grid wpr-mgzn-grid-3-h wpr-mgzn-grid-rows-1"><article class="wpr-mgzn-grid-item elementor-clearfix post-92 post type-post status-publish format-standard hentry category-sin-categoria entry"><div class="wpr-grid-item-inner"><div class="wpr-grid-media-wrap" data-overlay-link="yes" style="cursor: pointer;"><div class="wpr-grid-media-hover wpr-animation-wrap"><div class="wpr-grid-media-hover-bg  wpr-overlay-fade-out wpr-anim-size-small wpr-anim-timing-linear wpr-anim-transparency" data-url="http://localhost/wordpress/2024/03/22/prueba-2/"></div><div class="wpr-grid-media-hover-bottom elementor-clearfix"><h2 class="wpr-grid-item-title elementor-repeater-item-f0ad6cb wpr-grid-item-display-inline wpr-grid-item-align-center wpr-element-fade-out wpr-anim-size-medium wpr-anim-timing-ease-default wpr-anim-transparency wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-fade"><div class="inner-block"><a target="_self" href="http://localhost/wordpress/2024/03/22/prueba-2/">Prueba 2</a></div></h2><div class="wpr-grid-item-excerpt elementor-repeater-item-2dd36b7 wpr-grid-item-display-inline wpr-grid-item-align-center wpr-element-fade-out wpr-anim-size-medium wpr-anim-timing-ease-default wpr-anim-transparency"><div class="inner-block"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.…</p></div></div><div class="wpr-grid-item-date elementor-repeater-item-476e800 wpr-grid-item-display-inline wpr-grid-item-align-left"><div class="inner-block"><span>22 de marzo de 2024</span></div></div><div class="wpr-grid-item-read-more elementor-repeater-item-b746ef6 wpr-grid-item-display-inline wpr-grid-item-align-right"><div class="inner-block"><a target="_self" href="http://localhost/wordpress/2024/03/22/prueba-2/" class="wpr-button-effect wpr-button-none"><span>Leer Más</span><span class="wpr-grid-extra-icon-right"><svg aria-hidden="true" class="e-font-icon-svg e-far-eye" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M288 144a110.94 110.94 0 0 0-31.24 5 55.4 55.4 0 0 1 7.24 27 56 56 0 0 1-56 56 55.4 55.4 0 0 1-27-7.24A111.71 111.71 0 1 0 288 144zm284.52 97.4C518.29 135.59 410.93 64 288 64S57.68 135.64 3.48 241.41a32.35 32.35 0 0 0 0 29.19C57.71 376.41 165.07 448 288 448s230.32-71.64 284.52-177.41a32.35 32.35 0 0 0 0-29.19zM288 400c-98.65 0-189.09-55-237.93-144C98.91 167 189.34 112 288 112s189.09 55 237.93 144C477.1 345 386.66 400 288 400z"></path></svg></span></a></div></div></div></div></div></div></article><article class="wpr-mgzn-grid-item elementor-clearfix post-87 post type-post status-publish format-standard hentry category-sin-categoria entry"><div class="wpr-grid-item-inner"><div class="wpr-grid-media-wrap" data-overlay-link="yes" style="cursor: pointer;"><div class="wpr-grid-media-hover wpr-animation-wrap"><div class="wpr-grid-media-hover-bg  wpr-overlay-fade-out wpr-anim-size-small wpr-anim-timing-linear wpr-anim-transparency" data-url="http://localhost/wordpress/2024/03/22/prueba-1/"></div><div class="wpr-grid-media-hover-bottom elementor-clearfix"><h2 class="wpr-grid-item-title elementor-repeater-item-f0ad6cb wpr-grid-item-display-inline wpr-grid-item-align-center wpr-element-fade-out wpr-anim-size-medium wpr-anim-timing-ease-default wpr-anim-transparency wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-fade"><div class="inner-block"><a target="_self" href="http://localhost/wordpress/2024/03/22/prueba-1/">Prueba 1</a></div></h2><div class="wpr-grid-item-excerpt elementor-repeater-item-2dd36b7 wpr-grid-item-display-inline wpr-grid-item-align-center wpr-element-fade-out wpr-anim-size-medium wpr-anim-timing-ease-default wpr-anim-transparency"><div class="inner-block"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.…</p></div></div><div class="wpr-grid-item-date elementor-repeater-item-476e800 wpr-grid-item-display-inline wpr-grid-item-align-left"><div class="inner-block"><span>22 de marzo de 2024</span></div></div><div class="wpr-grid-item-read-more elementor-repeater-item-b746ef6 wpr-grid-item-display-inline wpr-grid-item-align-right"><div class="inner-block"><a target="_self" href="http://localhost/wordpress/2024/03/22/prueba-1/" class="wpr-button-effect wpr-button-none"><span>Leer Más</span><span class="wpr-grid-extra-icon-right"><svg aria-hidden="true" class="e-font-icon-svg e-far-eye" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M288 144a110.94 110.94 0 0 0-31.24 5 55.4 55.4 0 0 1 7.24 27 56 56 0 0 1-56 56 55.4 55.4 0 0 1-27-7.24A111.71 111.71 0 1 0 288 144zm284.52 97.4C518.29 135.59 410.93 64 288 64S57.68 135.64 3.48 241.41a32.35 32.35 0 0 0 0 29.19C57.71 376.41 165.07 448 288 448s230.32-71.64 284.52-177.41a32.35 32.35 0 0 0 0-29.19zM288 400c-98.65 0-189.09-55-237.93-144C98.91 167 189.34 112 288 112s189.09 55 237.93 144C477.1 345 386.66 400 288 400z"></path></svg></span></a></div></div></div></div></div></div></article><article class="wpr-mgzn-grid-item elementor-clearfix post-1 post type-post status-publish format-standard hentry category-sin-categoria entry"><div class="wpr-grid-item-inner"><div class="wpr-grid-media-wrap" data-overlay-link="yes" style="cursor: pointer;"><div class="wpr-grid-media-hover wpr-animation-wrap"><div class="wpr-grid-media-hover-bg  wpr-overlay-fade-out wpr-anim-size-small wpr-anim-timing-linear wpr-anim-transparency" data-url="http://localhost/wordpress/2024/02/17/hola-mundo/"></div><div class="wpr-grid-media-hover-bottom elementor-clearfix"><h2 class="wpr-grid-item-title elementor-repeater-item-f0ad6cb wpr-grid-item-display-inline wpr-grid-item-align-center wpr-element-fade-out wpr-anim-size-medium wpr-anim-timing-ease-default wpr-anim-transparency wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-fade"><div class="inner-block"><a target="_self" href="http://localhost/wordpress/2024/02/17/hola-mundo/">JAPÓN</a></div></h2><div class="wpr-grid-item-excerpt elementor-repeater-item-2dd36b7 wpr-grid-item-display-inline wpr-grid-item-align-center wpr-element-fade-out wpr-anim-size-medium wpr-anim-timing-ease-default wpr-anim-transparency"><div class="inner-block"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.…</p></div></div><div class="wpr-grid-item-date elementor-repeater-item-476e800 wpr-grid-item-display-inline wpr-grid-item-align-left"><div class="inner-block"><span>22 de marzo de 2024</span></div></div><div class="wpr-grid-item-read-more elementor-repeater-item-b746ef6 wpr-grid-item-display-inline wpr-grid-item-align-right"><div class="inner-block"><a target="_self" href="http://localhost/wordpress/2024/02/17/hola-mundo/" class="wpr-button-effect wpr-button-none"><span>Leer Más</span><span class="wpr-grid-extra-icon-right"><svg aria-hidden="true" class="e-font-icon-svg e-far-eye" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M288 144a110.94 110.94 0 0 0-31.24 5 55.4 55.4 0 0 1 7.24 27 56 56 0 0 1-56 56 55.4 55.4 0 0 1-27-7.24A111.71 111.71 0 1 0 288 144zm284.52 97.4C518.29 135.59 410.93 64 288 64S57.68 135.64 3.48 241.41a32.35 32.35 0 0 0 0 29.19C57.71 376.41 165.07 448 288 448s230.32-71.64 284.52-177.41a32.35 32.35 0 0 0 0-29.19zM288 400c-98.65 0-189.09-55-237.93-144C98.91 167 189.34 112 288 112s189.09 55 237.93 144C477.1 345 386.66 400 288 400z"></path></svg></span></a></div></div></div></div></div></div></article></section></div>		</div>
+			        <div class="rt-container-fluid rt-tpg-container tpg-el-main-wrapper clearfix grid-layout4-main " id="rt-tpg-container-1913512427" data-layout="grid-layout4" data-grid-style="tpg-full-height" data-sc-id="elementor" data-el-settings="" data-el-query="" data-el-path="">
+
+			<div class="tpg-header-wrapper ">
+        <div class="tpg-widget-heading-wrapper rt-clear heading-style1 ">
+            <span class="tpg-widget-heading-line line-left"></span>
+
+			<h2 class="tpg-widget-heading">
+			
+				                    <span>
+                        Section Title                    </span>
+					
+							</h2>            <span class="tpg-widget-heading-line line-right"></span>
+
+			
+        </div>
+
+		
+		</div>
+            <div data-title="Loading ..." class="rt-row rt-content-loader grid-layout4 grid-behaviour tpg-full-height grid_layout_wrapper">
+				
+<div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item" data-id="108">
+	<div class="rt-holder tpg-post-holder">
+		<div class="rt-detail rt-el-content-wrapper">
+							<div class="rt-img-holder tpg-el-image-wrap has-no-thumbnail">
+					<a data-id="108" href="http://localhost/wordpress/2024/03/22/prueba-3/" class="tpg-post-link" target="_self">		
+		</a>
+		        <div class="overlay grid-hover-content"></div>
+						</div>
+			
+			<div class="entry-title-wrapper">        <div class="tpg-separate-category style1 top_left cat-above-title">
+			<span class="categories-links">
+						<a class="sin-categoria" href="http://localhost/wordpress/category/sin-categoria/">Sin categoría</a>			</span>
+        </div>
+		<h3 class="entry-title"><a data-id="108" href="http://localhost/wordpress/2024/03/22/prueba-3/" class="tpg-post-link" target="_self">Prueba 3</a></h3></div>
+							<div class="post-meta-tags rt-el-post-meta">
+					            <span class="author ">
+
+				<i class="flaticon-user "></i><span class="author-prefix">By</span><a href="http://localhost/wordpress/author/daniel/">daniel</a>			</span>
+			            <span class="date">
+				<i class="flaticon-calendar "></i>				<a href="http://localhost/wordpress/2024/03/22/">
+					22 de marzo de 2024				</a>
+			</span>
+			            <span class="categories-links">
+				<i class="flaticon-folder "></i><a class="sin-categoria" href="http://localhost/wordpress/category/sin-categoria/">Sin categoría</a>
+			</span>
+							</div>
+			
+							<div class="tpg-excerpt tpg-el-excerpt">
+											<div class="tpg-excerpt-inner">
+							asdnfbguaehjdrgfhuabedsfhvbaujisdhfbvhbasdhfbvhasdbfhbpadufbvpasdifbvpaduikfvbpiadfbvpiadbfpuikvbaidhujfvbadfvasdfvadfvasdfvadfv...						</div>
+														</div>
+			
+			        <div class="post-footer">
+            <div class="post-footer">
+                <div class="read-more">
+					<a data-id="108" href="http://localhost/wordpress/2024/03/22/prueba-3/" class="tpg-post-link" target="_self">Read More</a>                </div>
+            </div>
+        </div>
+				</div>
+	</div>
+</div>
+
+<div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item" data-id="92">
+	<div class="rt-holder tpg-post-holder">
+		<div class="rt-detail rt-el-content-wrapper">
+							<div class="rt-img-holder tpg-el-image-wrap has-no-thumbnail">
+					<a data-id="92" href="http://localhost/wordpress/2024/03/22/prueba-2/" class="tpg-post-link" target="_self">		
+		</a>
+		        <div class="overlay grid-hover-content"></div>
+						</div>
+			
+			<div class="entry-title-wrapper">        <div class="tpg-separate-category style1 top_left cat-above-title">
+			<span class="categories-links">
+						<a class="sin-categoria" href="http://localhost/wordpress/category/sin-categoria/">Sin categoría</a>			</span>
+        </div>
+		<h3 class="entry-title"><a data-id="92" href="http://localhost/wordpress/2024/03/22/prueba-2/" class="tpg-post-link" target="_self">Prueba 2</a></h3></div>
+							<div class="post-meta-tags rt-el-post-meta">
+					            <span class="author ">
+
+				<i class="flaticon-user "></i><span class="author-prefix">By</span><a href="http://localhost/wordpress/author/daniel/">daniel</a>			</span>
+			            <span class="date">
+				<i class="flaticon-calendar "></i>				<a href="http://localhost/wordpress/2024/03/22/">
+					22 de marzo de 2024				</a>
+			</span>
+			            <span class="categories-links">
+				<i class="flaticon-folder "></i><a class="sin-categoria" href="http://localhost/wordpress/category/sin-categoria/">Sin categoría</a>
+			</span>
+							</div>
+			
+							<div class="tpg-excerpt tpg-el-excerpt">
+											<div class="tpg-excerpt-inner">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet dui accumsan sit amet nulla facilisi...						</div>
+														</div>
+			
+			        <div class="post-footer">
+            <div class="post-footer">
+                <div class="read-more">
+					<a data-id="92" href="http://localhost/wordpress/2024/03/22/prueba-2/" class="tpg-post-link" target="_self">Read More</a>                </div>
+            </div>
+        </div>
+				</div>
+	</div>
+</div>
+
+<div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item" data-id="87">
+	<div class="rt-holder tpg-post-holder">
+		<div class="rt-detail rt-el-content-wrapper">
+							<div class="rt-img-holder tpg-el-image-wrap has-no-thumbnail">
+					<a data-id="87" href="http://localhost/wordpress/2024/03/22/prueba-1/" class="tpg-post-link" target="_self">		
+		</a>
+		        <div class="overlay grid-hover-content"></div>
+						</div>
+			
+			<div class="entry-title-wrapper">        <div class="tpg-separate-category style1 top_left cat-above-title">
+			<span class="categories-links">
+						<a class="sin-categoria" href="http://localhost/wordpress/category/sin-categoria/">Sin categoría</a>			</span>
+        </div>
+		<h3 class="entry-title"><a data-id="87" href="http://localhost/wordpress/2024/03/22/prueba-1/" class="tpg-post-link" target="_self">Prueba 1</a></h3></div>
+							<div class="post-meta-tags rt-el-post-meta">
+					            <span class="author ">
+
+				<i class="flaticon-user "></i><span class="author-prefix">By</span><a href="http://localhost/wordpress/author/daniel/">daniel</a>			</span>
+			            <span class="date">
+				<i class="flaticon-calendar "></i>				<a href="http://localhost/wordpress/2024/03/22/">
+					22 de marzo de 2024				</a>
+			</span>
+			            <span class="categories-links">
+				<i class="flaticon-folder "></i><a class="sin-categoria" href="http://localhost/wordpress/category/sin-categoria/">Sin categoría</a>
+			</span>
+							</div>
+			
+							<div class="tpg-excerpt tpg-el-excerpt">
+											<div class="tpg-excerpt-inner">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet dui accumsan sit amet nulla facilisi...						</div>
+														</div>
+			
+			        <div class="post-footer">
+            <div class="post-footer">
+                <div class="read-more">
+					<a data-id="87" href="http://localhost/wordpress/2024/03/22/prueba-1/" class="tpg-post-link" target="_self">Read More</a>                </div>
+            </div>
+        </div>
+				</div>
+	</div>
+</div>
+            </div>
+			
+        </div>
+				</div>
 				</div>
 					</div>
