@@ -2,9 +2,9 @@
         <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_uri(); ?>">
         <!-- Agrega tu enlace a la hoja de estilo personalizada aquí -->
         <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/blogs.css">
+		<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/../../plugins/the-post-grid/assets/css/thepostgrid.min.css">
+		<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/../../uploads/elementor/css/post-29.css">
 </head>
-
-
 
 <div class="elementor-element elementor-element-9bf7179 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="9bf7179" data-element_type="container" data-core-v316-plus="true">
 						<div class="e-con-inner">
