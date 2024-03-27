@@ -19,7 +19,7 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
     </head>
-    <header>
+    <header id="headerPage">
         <div class="logoHeader">
             <img src="<?php echo esc_url($image_path); ?>" alt="" class="imgLogoHeader">
         </div>
